@@ -1,29 +1,26 @@
-
-
-
-.title{
- margin-bottom: 10px;
- text-align: center;
- width: 210px;
- color: wheat;
- background-color: black;
- border: saddlebrown 2px;
-
-
+.root {
+    width: 21rem;
+    height: 25rem;
+    margin: 7rem;
 }
-input[type="button"]{
-  background-color: black;
-  color: azure;
-  border: white 2px;
-  width: 100%
-  
 
+.title {
+    margin-bottom: 10px;
+    text-align: center;
+    width: 210px;
+    color: wheat;
+    background-color: black;
+    border: saddlebrown 2px;
 }
-input[type="text"]{
- background-color: white;
- color: black;
- border:solid black 2px;
- width:95%
-
- 
+input[type="button"] {
+    background-color: black;
+    color: azure;
+    border: white 2px;
+    width: 100%;
+}
+input[type="text"] {
+    background-color: white;
+    color: black;
+    border: solid black 2px;
+    width: 95%;
 }
