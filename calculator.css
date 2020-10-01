@@ -1,7 +1,11 @@
 .root {
     width: 21rem;
     height: 25rem;
+    padding: 1.6rem;
     margin: 7rem;
+    border-radius: 36px;
+    background: #f6f6f8;
+    box-shadow: 41px 41px 82px #cfcfd0, -41px -41px 82px #ffffff;
 }
 body {
     background-color: #edf0f1;
@@ -15,11 +19,14 @@ body {
     border: saddlebrown 2px;
 }
 input[type="button"] {
-    border-radius: 60px;
-    background: #edf0f1;
-    box-shadow: 5px 5px 13px #d5d8d9, -5px -5px 13px #ffffff;
+    border-radius: 101px;
+    background: #f6f6f8;
+    box-shadow: 5px 5px 10px #d8d8da, -5px -5px 10px #ffffff;
     height: 3rem;
     border: white 2px;
+    font-size: 1rem;
+    font-weight: 500;
+    color: #486e84;
     width: 100%;
 }
 input[type="text"] {
@@ -32,5 +39,5 @@ input[type="text"] {
 .input {
     height: 1rem;
     width: 3rem;
-    padding: 0.9rem;
+    padding: 0.6rem 0.4rem 0 0.5rem;
 }
