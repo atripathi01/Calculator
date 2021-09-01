@@ -12,6 +12,12 @@
     background: #f6f6f8;
     box-shadow: 41px 41px 82px #cfcfd0, -41px -41px 82px #ffffff;
 }
+.dis{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
 body {
     background-color: #edf0f1;
 }
